@@ -35,8 +35,8 @@ function App() {
         <
         Redirect to = "/" / >
         <
-        /Switch> <
-        /Router> <
+        /Switch> < /
+        Router > <
         BackToTop / >
         <
         /div>
