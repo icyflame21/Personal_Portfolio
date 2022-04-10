@@ -10,7 +10,7 @@ function Main() {
         <
         Helmet >
         <
-        title > { headerData.name } - Porfolio < /title> <
+        title > { headerData.name }< /title> <
         /Helmet>
 
         <
@@ -23,7 +23,6 @@ function Main() {
         Education / >
         <
         Skills / >
-
         <
         Projects / >
         <

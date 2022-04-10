@@ -5,7 +5,7 @@ import three from '../assets/png/3.jpg'
 export const projectsData = [{
         id: 1,
         projectName: 'Myntra',
-        projectDesc: "Myntra is a India's largest e-commerce store for fashion and lifestyle products, Myntra aims at providing a hassle free and enjoyable shopping experience to shoppers across the country with the widest range of brands and products on its portal.",
+        projectDesc: "Myntra is a India's largest e-commerce store for fashion and lifestyle products, it aims at providing a hassle free and enjoyable shopping experience to shoppers across the country with the widest range of brands and products on its portal.",
         tags: ['JS', 'CSS', 'HTML'],
         code: 'https://github.com/biswa-ranjan-subudhi/Myntra-Clone',
         demo: 'https://myntra-fashions-clone.netlify.app',

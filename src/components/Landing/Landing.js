@@ -123,9 +123,7 @@ function Landing() {
                     >
                         <h6>{headerData.title}</h6>
                         <h1>{headerData.name}</h1>
-                        <p>{headerData.desciption1}</p>
-                        <p>{headerData.description2}</p>
-                        <p>{headerData.description3}</p>
+                        <p>{headerData.desciption}</p>
 
                         <div className='lcr-buttonContainer'>
                             {headerData.resumePdf && (
