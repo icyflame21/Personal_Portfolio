@@ -1,6 +1,6 @@
 import one from '../assets/png/1.jpg'
 import two from '../assets/png/2.jpg'
-
+import three from '../assets/png/3.jpg'
 
 export const projectsData = [{
         id: 1,
@@ -8,7 +8,7 @@ export const projectsData = [{
         projectDesc: "Myntra is a India's largest e-commerce store for fashion and lifestyle products, Myntra aims at providing a hassle free and enjoyable shopping experience to shoppers across the country with the widest range of brands and products on its portal.",
         tags: ['JS', 'CSS', 'HTML'],
         code: 'https://github.com/biswa-ranjan-subudhi/Myntra-Clone',
-        demo: 'https://bigbasketteam11clone.netlify.app/index.html',
+        demo: 'https://myntra-fashions-clone.netlify.app',
         image: two
     },
     {
@@ -20,7 +20,60 @@ export const projectsData = [{
         demo: 'https://simplyweatherdata.netlify.app/',
         image: one
     },
-    
+    {
+        id: 3,
+        projectName: 'TMDB Movie Search App',
+        projectDesc: '',
+        tags: ['JS', 'CSS', 'HTML'],
+        code: 'https://github.com/biswa-ranjan-subudhi/MoviesApp',
+        demo: 'https://uniquemoviesearch.netlify.app/',
+        image: three
+    },
+    {
+        id: 4,
+        projectName: '',
+        projectDesc: '',
+        tags: [],
+        code: '',
+        demo: '',
+        image: ''
+    },
+    {
+        id: 5,
+        projectName: '',
+        projectDesc: '',
+        tags: [],
+        code: '',
+        demo: '',
+        image: ''
+    },
+    {
+        id: 6,
+        projectName: '',
+        projectDesc: '',
+        tags: [],
+        code: '',
+        demo: '',
+        image: ''
+    },
+    {
+        id: 7,
+        projectName: '',
+        projectDesc: '',
+        tags: [],
+        code: '',
+        demo: '',
+        image: ''
+    },
+    {
+        id: 8,
+        projectName: '',
+        projectDesc: '',
+        tags: [],
+        code: '',
+        demo: '',
+        image: ''
+    },
 
 ]
 

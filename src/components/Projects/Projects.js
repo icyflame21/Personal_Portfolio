@@ -78,7 +78,7 @@ function Projects() {
                     projectsData.length > 3 && ( <
                         div className = "projects--viewAll" >
                         <
-                        a href = "https://github.com/vikalpvarshney1"
+                        a href = "https://github.com/biswa-ranjan-subudhi"
                         target = "_blank" >
                         <
                         button className = { classes.viewAllBtn } >

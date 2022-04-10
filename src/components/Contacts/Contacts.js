@@ -5,9 +5,9 @@ import axios from 'axios';
 import isEmail from 'validator/lib/isEmail';
 import { makeStyles } from '@material-ui/core/styles';
 import {
-    FaTwitter,
     FaLinkedinIn,
     FaGithub,
+    FaTwitter,
     FaYoutube,
     FaBloggerB,
     FaRedditAlien,
@@ -140,8 +140,8 @@ function Contacts() {
                     message: message,
                 };
 
-                axios.post("https://formsubmit.co/ajax/ak0020302@email.com", responseData).then((res) => {
-                    console.log('success');
+                axios.post("https://formsubmit.co/ajax/biswaranjan.cuh@gmail.com", responseData).then((res) => {
+                    alert('success');
                     setSuccess(true);
                     setErrMsg('');
 
@@ -151,7 +151,7 @@ function Contacts() {
                     setOpen(false);
                 })
                 .catch((res) =>{
-                    console.log('failed');
+                    alert('failed');
                     setSuccess(false);
                     setErrMsg('The imformation was not send successfully, Please fill the form again');
 
@@ -181,13 +181,13 @@ function Contacts() {
                 <h1 style={{ color: theme.primary }}>Contacts</h1>
                 <div className='contacts-body'>
                     <div className='contacts-form'>
-                        {/* <form onSubmit={handleContactForm}>
+                        <form onSubmit={handleContactForm}>
                             <div className='input-container'>
                                 <label htmlFor='Name' className={classes.label}>
                                     Name
                                 </label>
                                 <input
-                                    placeholder='John Doe'
+                                    placeholder='Biswaranjan Subudhi'
                                     value={name}
                                     onChange={(e) => setName(e.target.value)}
                                     type='text'
@@ -203,7 +203,7 @@ function Contacts() {
                                     Email
                                 </label>
                                 <input
-                                    placeholder='John@doe.com'
+                                    placeholder='biswaranjan.cuh@gmail.com'
                                     value={email}
                                     onChange={(e) => setEmail(e.target.value)}
                                     type='email'
@@ -258,7 +258,7 @@ function Contacts() {
                                     </div>
                                 </button>
                             </div>
-                        </form> */}
+                        </form>
                         <Snackbar
                             anchorOrigin={{
                                 vertical: 'top',
@@ -346,23 +346,18 @@ function Contacts() {
                                     <FaLinkedinIn aria-label='LinkedIn' />
                                 </a>
                             )}
-                            
-                            
-                            
-                            
-                            
-                            
-                            {socialsData.codepen && (
+
+                            {socialsData.youtube && (
                                 <a
-                                    href={socialsData.codepen}
+                                    href={socialsData.youtube}
                                     target='_blank'
                                     rel='noreferrer'
                                     className={classes.socialIcon}
                                 >
-                                    <FaCodepen aria-label='CodePen' />
+                                    <FaYoutube aria-label='YouTube' />
                                 </a>
                             )}
-                            
+
                         </div>
                     </div>
                 </div>
