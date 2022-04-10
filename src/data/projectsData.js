@@ -22,8 +22,8 @@ export const projectsData = [{
     },
     {
         id: 3,
-        projectName: 'TMDB Movie Search App',
-        projectDesc: "This Movie Search app fetches movies data using TMDB API for any searched movie for the user ",
+        projectName: 'Movie Search App',
+        projectDesc: "This Movie Search app fetches movies data using TMDB API for any searched movie for the user",
         tags: ['JS', 'CSS', 'HTML'],
         code: 'https://github.com/biswa-ranjan-subudhi/MoviesApp',
         demo: 'https://uniquemoviesearch.netlify.app/',
