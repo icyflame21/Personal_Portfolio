@@ -1,10 +1,10 @@
-import resume from '../assets/pdf/Resume2.pdf'
-import img from '../photo.jfif'
+import resume from '../assets/pdf/Biswaranjan Subudhi Resume.pdf'
+import img from '../ProPic1.jpeg'
 
 export const headerData = {
-    name: 'Vikalp Varshney',
+    name: 'Biswaranjan Subudhi',
     title: "Full Stack Web Developer",
-    desciption: " An aspire software engineer who is working on websites and Creatively solving Data Structure and Algorithms Problem.\n Currently learning MERN Stack | Full Stack Development\n I’m looking to collaborate on MERN Stack Projects",
+    desciption: " An aspiring full stack developer who is working on websites and Creatively solving Data Structure and Algorithms Problems.\n Currently learning MERN Stack | Full Stack Development\n I’m looking to collaborate on MERN Stack Projects",
     image: img,
     resumePdf: resume
 }

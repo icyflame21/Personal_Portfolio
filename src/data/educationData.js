@@ -1,15 +1,29 @@
 export const educationData = [{
         id: 1,
-        institution: 'Silver Stone Sr Sec School',
-        course: 'Higher Secondary Education',
+        institution: 'Masai School',
+        course: 'Full Stack Web Development Course',
+        startYear: '2021',
+        endYear: 'Present'
+    },
+    {
+        id: 2,
+        institution: 'Central University of Harayana',
+        course: 'Bachelor of Technology, Electrical Engineering',
+        startYear: '2018',
+        endYear: 'Present'
+    },
+    {
+        id: 3,
+        institution: 'Ispat English Medium School, Rourkela',
+        course: 'Mathematics and Computer Science (Indian School Certificate)',
         startYear: '2016',
         endYear: '2018'
     },
     {
-        id: 2,
-        institution: 'Central University of Harayan',
-        course: 'Bachelor of Technology',
-        startYear: '2018',
-        endYear: 'Present'
+        id: 4,
+        institution: 'Ispat English Medium School, Rourkela',
+        course: 'Science (Indian Certficate of Secondary Education)',
+        startYear: '2005',
+        endYear: '2016'
     },
 ]

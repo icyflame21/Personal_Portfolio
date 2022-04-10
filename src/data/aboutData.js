@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Vikalp Varshney. I'm a web designer and developer based in Delhi, India",
-    description2: "I am always curious to learn new technologies and I like to enhance my skills. \nA software engineer with fundamental knowledge and experience of coding, seeking opportunities to learn advanced frameworks and technologies to implement them in my day-to-day work",
+    description1: "My name's Biswaranjan Subudhi. I'm a web developer and designer based in Bhubaneswar, India",
+    description2: "⚡ I enjoy developing websites and a keen interest in solving problems and coming up with effective solutions \n⚡ Enjoy building responsive websites (frontend) using ReactJs, Bootstrap etc. \n⚡ Experience in working on multiple backend platforms like Node, Express, MongoDB, Postman",
     image: 2
 }

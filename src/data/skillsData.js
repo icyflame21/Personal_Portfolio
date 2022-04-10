@@ -11,6 +11,10 @@
      'Tailwind',
      'MySQL',
      'Firebase',
+     'Tailwind',
+     'Microsoft Office',
+     'Node JS',
+     'Markdown',
  ]
 
  // Choose your skills from below. Make sure it's in the same format and spelled correctly.
