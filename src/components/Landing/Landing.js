@@ -7,7 +7,7 @@ import './Landing.css';
 import { ThemeContext } from '../../contexts/ThemeContext';
 import { headerData } from '../../data/headerData';
 import { socialsData } from '../../data/socialsData';
-
+import Typewriter from "typewriter-effect";
 import {
     FaTwitter,
     FaLinkedin,
@@ -121,8 +121,32 @@ function Landing() {
                         className='lcr--content'
                         style={{ color: theme.tertiary }}
                     >
-                        <h6>{headerData.title}</h6>
                         <h1>{headerData.name}</h1>
+                        <h6
+              style={{
+                color: theme.primary,
+                display: "flex",
+                margin: "10px 0px",
+                align: "center",
+              }}
+            >
+              {" "}
+              I am a
+              <div style={{ margin: "0px 8px" }}>
+                <Typewriter
+                  options={{
+                    strings: [
+                      "Full Stack Web Developer",
+                      "MERN Stack Web Developer",
+                      "ReactJs Developer",
+                      "Learner"
+                    ],
+                    autoStart: true,
+                    loop: true,
+                  }}
+                />
+              </div>
+            </h6>
                         <p>{headerData.desciption}</p>
 
                         <div className='lcr-buttonContainer'>

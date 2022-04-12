@@ -1,12 +1,14 @@
 .navbar {
     height: 6.5rem;
-    position: sticky;
-    top: 0;
+    position: absolute;
+    top:0;
+    right:0;
+    /* background-image: linear-gradient(to right, #f03939 35%, #212121 35%, #212121 30%); */
     background-color: transparent;
     z-index: 99;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: center; 
     width: 100%;
 }
 
@@ -22,7 +24,7 @@
 .navbar--container > h1 {
     font-family: 'BestermindRegular';
     color: var(--primary-2);
-    font-size: 2.5rem;
+    font-size: 3rem;
     user-select: none;
 }
 
@@ -53,6 +55,7 @@
     .navLink--container {
         margin-top: 3rem;
     }
+    
 }
 
 
@@ -68,6 +71,12 @@
     }
     .MuiDrawer-paper{
       border-radius: 0 !important;
+    }
+    .navbar {
+        position: fixed;
+        top:0;
+        right:0;
+        background-image: linear-gradient(to right, #f03939 35%, #f03939  35%, #f03939  30%);
     }
 }
 

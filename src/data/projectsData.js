@@ -5,7 +5,7 @@ import three from '../assets/png/3.jpg'
 export const projectsData = [{
         id: 1,
         projectName: 'Myntra',
-        projectDesc: "Myntra is a India's largest e-commerce store for fashion and lifestyle products, it aims at providing a hassle free and enjoyable shopping experience to shoppers across the country with the widest range of brands and products on its portal.",
+        projectDesc: "Myntra is an e-commerce website where people can buy from wide range of products and has an interactive UI. A collaborative project built by a team of 3 executed in  7 days.",
         tags: ['JS', 'CSS', 'HTML'],
         code: 'https://github.com/biswa-ranjan-subudhi/Myntra-Clone',
         demo: 'https://myntra-fashions-clone.netlify.app',
@@ -14,7 +14,7 @@ export const projectsData = [{
     {
         id: 2,
         projectName: 'SimplyWeather App',
-        projectDesc: "This weather app provides weather data for any searched city for the user's current Location",
+        projectDesc: "This weather app provides weather data for any searched city for the user's current location. Solo project executed in  3 days.",
         tags: ['JS', 'CSS', 'HTML'],
         code: 'https://github.com/biswa-ranjan-subudhi/SimplyWeather-App',
         demo: 'https://simplyweatherdata.netlify.app/',
@@ -23,7 +23,7 @@ export const projectsData = [{
     {
         id: 3,
         projectName: 'Movie Search App',
-        projectDesc: "This Movie Search app fetches movies data using TMDB API for any searched movie for the user",
+        projectDesc: "This Movie Search app fetches movies data using TMDB API for any searched movie for the user. Solo project executed in  1 day",
         tags: ['JS', 'CSS', 'HTML'],
         code: 'https://github.com/biswa-ranjan-subudhi/MoviesApp',
         demo: 'https://uniquemoviesearch.netlify.app/',

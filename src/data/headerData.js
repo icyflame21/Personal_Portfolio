@@ -1,5 +1,5 @@
 import resume from '../assets/pdf/Biswaranjan Subudhi Resume.pdf'
-import img from '../ProPic1.png'
+import img from '../Propic1.jpeg'
 
 export const headerData = {
     name: 'Biswaranjan Subudhi',
