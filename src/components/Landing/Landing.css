@@ -112,10 +112,18 @@
 
   .lcr--content h6 {
     font-size: 1.1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
   }
 
   .lcr--content h1 {
     font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
   }
 
   .lcr--content p {
@@ -123,6 +131,7 @@
     margin-bottom: 1rem;
     font-weight: 500;
     font-size: 1.2rem;
+    
   }
 
   .lcr-buttonContainer {
@@ -137,11 +146,22 @@
 @media (max-width: 900px) {
   .landing--img {
     --img-size: 300px;
+    left: 27%;
   }
-
+  .landing--container-left {
+  flex:24%
+  }
   .landing--social {
     font-size: 30px;
   }
+  .lcr--content h6 {
+    font-size: 1rem;
+    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
   .lcr--content {
     width: 60%;
     margin-top: 10%;
@@ -205,6 +225,10 @@
   }
   .lcr--content h1 {
     font-size: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
     text-align: center;
   }
   .lcr--content p {
@@ -212,6 +236,10 @@
     text-align: center;
     margin: 0 auto;
     width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
   }
   .lcr-buttonContainer {
     margin: 0 auto;
