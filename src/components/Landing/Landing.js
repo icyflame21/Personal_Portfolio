@@ -127,12 +127,11 @@ function Landing() {
                 color: theme.primary,
                 display: "flex",
                 margin: "10px 0px",
-                align: "center",
               }}
             >
               {" "}
               I am a
-              <div style={{ margin: "0px 8px" }}>
+              <div style={{ margin: "0px 8px",textAlign: "center" }}>
                 <Typewriter
                   options={{
                     strings: [
