@@ -7,7 +7,7 @@ export const projectsData = [{
         projectName: 'Myntra',
         projectDesc: "Myntra is an e-commerce website where people can buy from wide range of products and has an interactive UI. A collaborative project built by a team of 3 executed in  7 days.",
         tags: ['JS', 'CSS', 'HTML'],
-        code: 'https://github.com/biswa-ranjan-subudhi/Myntra-Clone',
+        code: 'https://github.com/icyflame21/Myntra-Clone',
         demo: 'https://myntra-fashions-clone.netlify.app',
         image: two
     },
@@ -16,7 +16,7 @@ export const projectsData = [{
         projectName: 'SimplyWeather App',
         projectDesc: "This weather app provides weather data for any searched city for the user's current location. Solo project executed in  3 days.",
         tags: ['JS', 'CSS', 'HTML'],
-        code: 'https://github.com/biswa-ranjan-subudhi/SimplyWeather-App',
+        code: 'https://github.com/icyflame21/SimplyWeather-App',
         demo: 'https://simplyweatherdata.netlify.app/',
         image: one
     },
@@ -25,7 +25,7 @@ export const projectsData = [{
         projectName: 'Movie Search App',
         projectDesc: "This Movie Search app fetches movies data using TMDB API for any searched movie for the user. Solo project executed in  1 day",
         tags: ['JS', 'CSS', 'HTML'],
-        code: 'https://github.com/biswa-ranjan-subudhi/MoviesApp',
+        code: 'https://github.com/icyflame21/MoviesApp',
         demo: 'https://uniquemoviesearch.netlify.app/',
         image: three
     },

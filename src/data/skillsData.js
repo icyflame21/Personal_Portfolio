@@ -5,7 +5,6 @@
      'React',
      'Photoshop',
      'Bootstrap',
-     'Matlab',
      'Git',
      'MongoDB',
      'Tailwind',
