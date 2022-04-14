@@ -69,7 +69,13 @@
 
 
 @media (min-width: 992px) and (max-width: 1380px) {
-
+.projects--bodyContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+}
 }
 
 
