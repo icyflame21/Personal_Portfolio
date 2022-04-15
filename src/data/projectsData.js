@@ -14,7 +14,7 @@ export const projectsData = [{
     {
         id: 2,
         projectName: 'SimplyWeather App',
-        projectDesc: "This weather app provides weather data for any searched city for the user's current location. Solo project executed in  3 days.",
+        projectDesc: "This weather app provides weather data for any searched city for the user's current location. Solo project executed in  2 days.",
         tags: ['JS', 'CSS', 'HTML'],
         code: 'https://github.com/icyflame21/SimplyWeather-App',
         demo: 'https://simplyweatherdata.netlify.app/',
@@ -23,7 +23,7 @@ export const projectsData = [{
     {
         id: 3,
         projectName: 'Movie Search App',
-        projectDesc: "This Movie Search app fetches movies data using TMDB API for any searched movie for the user. Solo project executed in  1 day",
+        projectDesc: "This Movie Search app fetches movies data using TMDB API for any searched movie for the user. Solo project executed in  1 day.",
         tags: ['JS', 'CSS', 'HTML'],
         code: 'https://github.com/icyflame21/MoviesApp',
         demo: 'https://uniquemoviesearch.netlify.app/',

@@ -7,7 +7,6 @@
      'Bootstrap',
      'Git',
      'MongoDB',
-     'Tailwind',
      'MySQL',
      'Firebase',
      'Tailwind',
