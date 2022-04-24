@@ -62,17 +62,9 @@ cd developer-portfolio
 ```
 npm install
 ```
-#### or
-```
-yarn install
-```
 ### Start the development server
 ```
 npm start
-```
-#### or
-```
-yarn start
 ```
 <br />
 
