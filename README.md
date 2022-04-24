@@ -6,7 +6,7 @@
 - [Packages Used](#packages-used-package)
 - [APIs Used](#apis-used-world_map)
 - [Fonts and Images](#fonts-and-images-performing_arts)
-- [Author](#contributors-man_technologist)
+- [Author](#author-man_technologist)
 
 <br />
 
