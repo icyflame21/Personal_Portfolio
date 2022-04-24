@@ -14,8 +14,7 @@
 - [Upcoming Features](#upcoming-features-construction)
 - [Contributors](#contributors-man_technologistwoman_technologist)
 
-<br /><br />
-
+<br />
 
 # Sections :bookmark:
 - HOME
@@ -31,7 +30,7 @@
 - BLOG
 - CONTACTS 
 
-<br /><br />
+<br />
 
 # Installation :arrow_down:
 ### You will need to download Git and Node to run this project
