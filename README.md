@@ -256,7 +256,7 @@ yarn start
 <div>
     <table>
         <tr>
-            <td align="left"><a href="https://github.com/icyflame21"><img src="https://avatars.githubusercontent.com/u/100564331?v=4" width="135px;" height="135px;" alt=""/><br /><b>Biswaranjan Subudhi</b></a>
+            <td align="center"><a href="https://github.com/icyflame21"><img src="https://avatars.githubusercontent.com/u/100564331?v=4" width="135px;" height="135px;" alt=""/><br /><b>Biswaranjan</b></a>
             </td> 
         </tr>
     </table>
