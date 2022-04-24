@@ -26,8 +26,6 @@
     - PROJECTS 
     - Achievements <br />
 - SERVICES 
-    - TESTIMONIALS <br />
-- BLOG
 - CONTACTS 
 
 <br />
@@ -55,8 +53,8 @@ git --version
 #### To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone hhttps://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
-cd developer-portfolio
+git clone https://github.com/icyflame21/Biswa_nnnt.git
+cd Biswa_nnnt
 ```
 ### Install packages from the root directory
 ```
@@ -99,8 +97,7 @@ npm start
 │   │       ├── experience
 │   │       ├── projects
 │   │       ├── skills
-│   │       ├── social
-│   │       └── testimonials
+│   │       ├── socials
 │   ├── components
 │   │   ├── About
 │   │   │   ├── About.css
@@ -112,12 +109,6 @@ npm start
 │   │   ├── BackToTop
 │   │   │   ├── BackToTop.css
 │   │   │   └── BackToTop.js
-│   │   ├── Blog
-│   │   │   ├── Blog.css
-│   │   │   ├── Blog.js
-│   │   │   └── SingleBlog
-│   │   │       ├── SingleBlog.css
-│   │   │       └── SingleBlog.js
 │   │   ├── Contacts
 │   │   │   ├── Contacts.css
 │   │   │   └── Contacts.js
@@ -144,41 +135,26 @@ npm start
 │   │   │   └── SingleProject
 │   │   │       ├── SingleProject.css
 │   │   │       └── SingleProject.js
-│   │   ├── Services
-│   │   │   ├── Services.css
-│   │   │   ├── Services.js
-│   │   │   └── SingleService
-│   │   │       ├── SingleService.css
-│   │   │       └── SingleService.js
 │   │   ├── Skills
 │   │   │   ├── Skills.css
 │   │   │   └── Skills.js
-│   │   ├── Testimonials
-│   │   │   ├── Testimonials.css
-│   │   │   └── Testimonials.js
 │   │   └── index.js
 │   ├── contexts
 │   │   └── ThemeContext.js
 │   ├── data
 │   │   ├── aboutData.js
 │   │   ├── achievementData.js
-│   │   ├── blogData.js
 │   │   ├── contactsData.js
 │   │   ├── educationData.js
 │   │   ├── experienceData.js
 │   │   ├── headerData.js
 │   │   ├── projectsData.js
-│   │   ├── servicesData.js
 │   │   ├── skillsData.js
 │   │   ├── socialsData.js
-│   │   ├── testimonialsData.js
 │   │   └── themeData.js
 │   ├── index.css
 │   ├── index.js
 │   ├── pages
-│   │   ├── Blog
-│   │   │   ├── BlogPage.css
-│   │   │   └── BlogPage.js
 │   │   ├── Main
 │   │   │   └── Main.js
 │   │   ├── Project
@@ -236,8 +212,6 @@ npm start
 - [Poppins](https://fonts.google.com/specimen/Poppins)
 - [Montserrat](https://fonts.google.com/specimen/Montserrat)
 - [Raleway](https://fonts.google.com/specimen/Raleway)
-- [Big Shoulders Text](https://fonts.google.com/specimen/Big+Shoulders+Text)
-- [Bestermind](https://www.dafont.com/bestermind.font)
 - [Roboto](https://fonts.google.com/specimen/Roboto)
 
 <br />
