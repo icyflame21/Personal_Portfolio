@@ -22,11 +22,11 @@ export const projectsData = [{
     },
     {
         id: 3,
-        projectName: 'Movie Search App',
-        projectDesc: "This Movie Search app fetches movies data using TMDB API for any searched movie for the user. Solo project executed in  1 day.",
-        tags: ['JS', 'CSS', 'HTML'],
-        code: 'https://github.com/icyflame21/MoviesApp',
-        demo: 'https://uniquemoviesearch.netlify.app/',
+        projectName: 'Amazon prime Video',
+        projectDesc: "Amazon Prime Video is an American subscription video on-demand over-the-top streaming services. A Collaborative project built by a team of 3 executed in 7 days.",
+        tags: ['React', 'Redux', 'MUI', 'BootStrap 5','Firebase'],
+        code: 'https://github.com/icyflame21/Amazon-Prime-Clone',
+        demo: 'https://amazonprime-clone.netlify.app/',
         image: three
     },
     {

@@ -19,11 +19,4 @@ export const educationData = [{
         startYear: '2016',
         endYear: '2018'
     },
-    {
-        id: 4,
-        institution: 'Ispat English Medium School, Rourkela',
-        course: 'Science (Indian Certficate of Secondary Education)',
-        startYear: '2005',
-        endYear: '2016'
-    },
 ]
