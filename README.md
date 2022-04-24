@@ -19,7 +19,6 @@
     - EXPERIENCE
     - PROJECTS 
     - Achievements <br />
-- SERVICES 
 - CONTACTS 
 
 <br />
