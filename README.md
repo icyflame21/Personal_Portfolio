@@ -2,7 +2,6 @@
 - [Sections](#sections-bookmark)
 - [Installation](#installation-arrow_down)
 - [Getting Started](#getting-started-dart)
-- [Folder Structure](#folder-structure-open_file_folder)
 - [Packages Used](#packages-used-package)
 - [APIs Used](#apis-used-world_map)
 - [Fonts and Images](#fonts-and-images-performing_arts)
