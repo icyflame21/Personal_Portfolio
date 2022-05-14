@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/Biswaranjan Subudhi Resume.pdf'
+import resume from '../assets/pdf/Biswaranjan_Resume.pdf'
 import img from '../Propic1.jpeg'
 
 export const headerData = {
