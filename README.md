@@ -45,10 +45,8 @@ git --version
 #### To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```
-git clone https://github.com/icyflame21/
-Personal_Portfolio.git
-cd 
-Personal_Portfolio
+git clone https://github.com/icyflame21/Personal_Portfolio.git
+cd Personal_Portfolio
 ```
 ### Install packages from the root directory
 ```
