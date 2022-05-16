@@ -1,10 +1,10 @@
-import one from '../assets/png/1.jpg'
+import one from '../assets/png/one.jfif'
 import two from '../assets/png/2.jpg'
 import three from '../assets/png/3.jpg'
 
 export const projectsData = [{
         id: 1,
-        projectName: 'Myntra',
+        projectName: 'Myntra (Clone)',
         projectDesc: "Myntra is an e-commerce website where people can buy from wide range of products and has an interactive UI. A collaborative project built by a team of 3 executed in  7 days.",
         tags: ['JS', 'CSS', 'HTML'],
         code: 'https://github.com/icyflame21/Myntra-Clone',
@@ -13,18 +13,18 @@ export const projectsData = [{
     },
     {
         id: 2,
-        projectName: 'SimplyWeather App',
-        projectDesc: "This weather app provides weather data for any searched city for the user's current location. Solo project executed in  2 days.",
-        tags: ['JS', 'CSS', 'HTML'],
-        code: 'https://github.com/icyflame21/SimplyWeather-App',
-        demo: 'https://simplyweatherdata.netlify.app/',
+        projectName: 'Swiggy (Clone)',
+        projectDesc: "Swiggy is an Indian online food ordering and delivery platform. Solo project executed in  7 days.",
+        tags: ['React', 'Firebase','Redux','Material UI'],
+        code: 'https://github.com/icyflame21/Swiggy_Clone',
+        demo: 'https://swiggy-foodlovers.netlify.app/',
         image: one
     },
     {
         id: 3,
-        projectName: 'Amazon prime Video',
-        projectDesc: "Amazon Prime Video is an American subscription video on-demand over-the-top streaming services. A Collaborative project built by a team of 3 executed in 7 days.",
-        tags: ['React', 'Redux', 'MUI', 'BootStrap 5','Firebase'],
+        projectName: 'Amazon-Prime Video (Clone)',
+        projectDesc: "Amazon Prime Video is an video on-demand over-the-top streaming services. A Collaborative project built by a team of 3 executed in 7 days.",
+        tags: ['React', 'Redux', 'Material UI','Firebase'],
         code: 'https://github.com/icyflame21/Amazon-Prime-Clone',
         demo: 'https://amazonprime-clone.netlify.app/',
         image: three

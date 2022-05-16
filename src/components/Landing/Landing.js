@@ -135,9 +135,8 @@ function Landing() {
                 <Typewriter
                   options={{
                     strings: [
-                      "Full Stack Web Developer",
-                      "MERN Stack Web Developer",
                       "ReactJs Developer",
+                      "MERN Stack Developer",
                       "Learner"
                     ],
                     autoStart: true,

@@ -6,12 +6,10 @@
      'Photoshop',
      'Bootstrap',
      'Git',
-     'MongoDB',
-     'MySQL',
      'Firebase',
      'Tailwind',
      'Microsoft Office',
-     'Node JS',
+     'MaterialUI',
      'Markdown',
  ]
 
