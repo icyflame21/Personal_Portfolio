@@ -10,7 +10,7 @@ export const educationData = [{
         institution: 'Central University of Haryana, Haryana',
         course: 'B.Tech in Electrical Engineering',
         startYear: '2018',
-        endYear: 'Present'
+        endYear: '2022'
     },
     {
         id: 3,
